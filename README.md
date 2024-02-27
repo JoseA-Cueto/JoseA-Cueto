@@ -4,7 +4,7 @@
 
 👨🏻‍💻 Proud graduate in Software Engineering ;
 
-☕ Coffee lover! Because, let's face it, coding runs on caffeine!;
+🔋 Technology aficionado! Because, let's face it, coding runs on innovation!;
 
 Contact Me 🌐; LinkedIn:https://www.linkedin.com/in/jose-antonio-cueto-mengana-866aa7255;
 
