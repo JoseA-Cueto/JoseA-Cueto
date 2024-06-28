@@ -1,15 +1,12 @@
-👋 Hello there, delighted to have you on my profile!;
+Hello! Delighted to have you on my profile.
 
-🌟 I'm Jose Antonio, a web development enthusiast with a passion for .NET technology;
+🌟 I'm Jose Antonio, a passionate web development specialist in .NET technology.
 
-👨🏻‍💻 Proud graduate in Software Engineering ;
+👨🏻‍💻 Graduate in Software Engineering.
 
-🔋 Technology enthusiast! Because, let's face it, coding runs on innovation!;
+🔋 Technology enthusiast, because innovation is the driving force of development.
 
-Contact Me 🌐; LinkedIn:https://www.linkedin.com/in/jose-antonio-cueto-mengana-866aa7255;
-
-
-📧 Email:joseacm2901@gmail.com;
+🚀 I eagerly embrace challenges and always strive to improve.
 
 Skills 🔧 Technologies and Best Practices 👨‍💻
 
@@ -22,5 +19,8 @@ Skills 🔧 Technologies and Best Practices 👨‍💻
     SOLID Principles
     SCRUM
     GitHub
-    Software Dev
+    Software Development
 
+📈 Work Experience:
+
+For the past two years, I have been intensively working with .NET and related technologies. During this time, I have taken on various roles within development teams, excelling particularly in programming. My experience includes creating robust and scalable applications, as well as implementing best practices and software development principles.
