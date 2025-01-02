@@ -14,7 +14,9 @@ Skills 🔧 Technologies and Best Practices 👨‍💻
     .NET
     ASP.NET MVC
     ASP.NET API
+    ApiRestMinimal
     SQL Server
+    Postgresql
     Entity Framework
     SOLID Principles
     SCRUM
