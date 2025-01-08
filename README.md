@@ -56,12 +56,33 @@ Here's what I've done:
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseA-Cueto&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseA-Cueto&layout=compact&theme=radical" alt="Top Languages">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseA-Cueto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseA-Cueto&layout=compact&langs_count=10&theme=tokyonight&count_private=true" alt="Most Used Languages">
+</div>
+
+
+---
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JoseA-Cueto&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies">
+</div>
+
+---
+### 🔄 Current GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseA-Cueto&theme=radical&hide_title=true" alt="GitHub Activity Graph">
+</div>
+---
+### ⏳ Contribution Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseA-Cueto&theme=radical" alt="Contribution Streak">
+</div>
 
 ---
 
