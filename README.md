@@ -65,11 +65,15 @@ Here's what I've done:
 
 
 ---
+
+
 ### 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JoseA-Cueto&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </div>
+
+
 
 ---
 ### 🔄 Current GitHub Activity
@@ -78,11 +82,6 @@ Here's what I've done:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseA-Cueto&theme=radical&hide_title=true" alt="GitHub Activity Graph">
 </div>
 ---
-### ⏳ Contribution Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseA-Cueto&theme=radical" alt="Contribution Streak">
-</div>
 
 ---
 
@@ -100,5 +99,6 @@ Here's what I've done:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoseA-Cueto&color=blue&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=JoseA-Cueto&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 </p>
+
