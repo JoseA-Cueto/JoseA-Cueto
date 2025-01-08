@@ -76,14 +76,16 @@ Here's what I've done:
 
 
 ---
-### 🔄 Current GitHub Activity
+### 📊 Current GitHub Activity
+<p align="center">
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=JoseA-Cueto&theme=tokyonight&hide_border=true&fire=DD2727&ring=1DB954" 
+       alt="GitHub Streak Stats"
+  />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseA-Cueto&theme=radical&hide_title=true" alt="GitHub Activity Graph">
-</div>
 ---
 
----
 
 <h2>🌟 Fun Fact</h2>
 
