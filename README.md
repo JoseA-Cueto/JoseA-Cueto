@@ -60,7 +60,11 @@ Here's what I've done:
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JoseA-Cueto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseA-Cueto&layout=compact&langs_count=5&theme=tokyonight&count_private=true" alt="Most Used Languages">
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseA-Cueto&theme=tokyonight" alt="Repos per Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoseA-Cueto&theme=tokyonight" alt="Most Commit Language">
+</div>
+
 
 </div>
 
