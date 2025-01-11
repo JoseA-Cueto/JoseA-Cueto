@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" alt="Angular">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
   <img src="https://img.shields.io/badge/-Microservices-17A2B8?style=for-the-badge" alt="Microservices">
+  <img src="https://img.shields.io/badge/-WSO2-FF7300?logo=wso2&logoColor=white&style=for-the-badge" alt="WSO2">
 </p>
 
 ---
