@@ -59,8 +59,9 @@ Here's what I've done:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseA-Cueto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseA-Cueto&layout=compact&langs_count=5&theme=tokyonight&count_private=true" alt="Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=JoseA-Cueto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseA-Cueto&layout=compact&langs_count=5&theme=tokyonight&count_private=true" alt="Most Used Languages">
+
 </div>
 
 
