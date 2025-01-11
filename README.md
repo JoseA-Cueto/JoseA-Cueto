@@ -62,13 +62,8 @@ Here's what I've done:
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JoseA-Cueto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats">
 <div align="center">
-## Lenguajes más utilizados en mis repositorios
-
-### Repos por Lenguaje
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseA-Cueto&theme=tokyonight)
-
-### Lenguaje con más commits
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoseA-Cueto&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseA-Cueto&theme=tokyonight" alt="Repos per Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoseA-Cueto&theme=tokyonight" alt="Most Commit Language">
 
 </div>
 
