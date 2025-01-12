@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! Welcome to My GitHub Profile!</h1>
+<h1 align="center" style="color: #FFD700;">👋 Hello! Welcome to My GitHub Profile!</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding GIF" width="400">
@@ -6,11 +6,11 @@
 
 ---
 
-<h3 align="center">🌟 I'm <b>Jose Antonio</b>, a passionate web development specialist in .NET technology!</h3>
+<h3 align="center" style="color: #FF6347;">🌟 I'm <b>Jose Antonio</b>, a passionate web development specialist in .NET technology!</h3>
 
 ---
 
-<h2>💡 About Me</h2>
+<h2 style="color: #32CD32;">💡 About Me</h2>
 
 - 🎓 Graduate in **Software Engineering**.  
 - 🔋 **Technology enthusiast**, always driven by innovation.  
@@ -18,9 +18,9 @@
 
 ---
 
-<h2>🛠️ Skills and Technologies</h2>
+<h2 style="color: #1E90FF;">🛠️ Skills and Technologies</h2>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" alt="C#">
   <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt=".NET">
   <img src="https://img.shields.io/badge/-ASP.NET%20MVC-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt="ASP.NET MVC">
@@ -36,7 +36,7 @@
 
 ---
 
-<h2>📈 Work Experience</h2>
+<h2 style="color: #FF6347;">📈 Work Experience</h2>
 
 For the past **three years**, I have been intensively working with **.NET** and related technologies.  
 Here's what I've done:  
@@ -48,9 +48,9 @@ Here's what I've done:
 
 ---
 
-<h2>🌐 Connect With Me</h2>
+<h2 style="color: #32CD32;">🌐 Connect With Me</h2>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/jose-antonio-cueto-mengana-866aa7255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
   <a href="mailto:joseacm2901@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
 </p>
@@ -60,19 +60,15 @@ Here's what I've done:
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JoseA-Cueto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=JoseA-Cueto&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="500">
+</div>
+
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseA-Cueto&theme=tokyonight" alt="Repos per Language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoseA-Cueto&theme=tokyonight" alt="Most Commit Language">
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseA-Cueto&theme=radical" alt="Repos per Language" width="500">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoseA-Cueto&theme=radical" alt="Most Commit Language" width="500">
 </div>
-
-
-</div>
-
 
 ---
-
 
 ### 🏆 GitHub Trophies
 
@@ -80,28 +76,26 @@ Here's what I've done:
   <img src="https://github-profile-trophy.vercel.app/?username=JoseA-Cueto&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </div>
 
-
-
 ---
+
 ### 📊 Current GitHub Activity
 <p align="center">
   <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=JoseA-Cueto&theme=tokyonight&hide_border=true&fire=DD2727&ring=1DB954" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=JoseA-Cueto&theme=radical&hide_border=true&fire=DD2727&ring=1DB954" 
        alt="GitHub Streak Stats"
   />
 </p>
 
 ---
 
-
-<h2>🌟 Fun Fact</h2>
+<h2 style="color: #FFD700;">🌟 Fun Fact</h2>
 
 - 🤓 I'm always curious about **new technologies** and how they can **transform the world**.  
 - 🎨 Outside of coding, I enjoy learning about **design principles** to create better user experiences.  
 
 ---
 
-<h2>📜 Quote I Live By</h2>
+<h2 style="color: #1E90FF;">📜 Quote I Live By</h2>
 
 > "The best way to predict the future is to invent it." - Alan Kay
 
