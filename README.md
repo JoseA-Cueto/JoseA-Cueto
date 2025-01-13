@@ -63,7 +63,7 @@ Here's what I've done:
   <img src="https://github-readme-stats.vercel.app/api?username=JoseA-Cueto&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="500">
 </div>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseA-Cueto&theme=radical" alt="Repos per Language" width="500">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoseA-Cueto&theme=radical" alt="Most Commit Language" width="500">
 </div>
