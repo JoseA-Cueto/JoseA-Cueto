@@ -32,7 +32,14 @@
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
   <img src="https://img.shields.io/badge/-Microservices-17A2B8?style=for-the-badge" alt="Microservices">
   <img src="https://img.shields.io/badge/-WSO2-FF7300?logo=wso2&logoColor=white&style=for-the-badge" alt="WSO2">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman">
+  <img src="https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge" alt="Swagger">
+  <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="NPM">
+  <img src="https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge" alt="JWT">
+  <img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=for-the-badge" alt="Unity">
 </p>
+
 
 ---
 
