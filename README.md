@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="NPM">
   <img src="https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge" alt="JWT">
   <img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=for-the-badge" alt="Unity">
+  <img src="https://img.shields.io/badge/-Blazor-512BD4?logo=blazor&logoColor=white&style=for-the-badge" alt="Blazor">
 </p>
 
 
