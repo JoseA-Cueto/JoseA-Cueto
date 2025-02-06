@@ -79,14 +79,6 @@ Here's what I've done:
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoseA-Cueto&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</div>
-
----
-
 ### 📊 Current GitHub Activity
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseA-Cueto&theme=radical&hide_border=true&fire=DD2727&ring=1DB954" alt="GitHub Streak Stats" />
